@@ -1,6 +1,9 @@
 ## DEPRECATED THIS IS NOW BUILT INTO HOME ASSISTANT!!!
 
-There will be no further updates to this card. If you have it installed make sure to remove it and the zha_map custom component when updating to HA 1.0.0
+There will be no further updates to this card. If you have it installed make sure to remove it and the zha_map custom component when updating to HA 2020.12.x
+
+To access ZHA Network Visualization card in Home Assistant 2020.12.x and onwards, do the following:
+"Configuration" -> "Integrations" -> on the "Zigbee Home Automation" integration, Choose "Configure". Up along the top you will see "Visualisation" to access it.
 
 # zha-network-visualization-card
 
